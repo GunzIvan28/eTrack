@@ -1,0 +1,351 @@
+ 
+abricate results for Catt-BWE_048B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.21	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+aph(6)-Id	88.53	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+tet(B)	100.00	99.92	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+dfrA8	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA8	TRIMETHOPRIM
+ 
+abricate results for Catt-BWE_054A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-15	100.00	97.53	class C extended-spectrum beta-lactamase EC-15	CEPHALOSPORIN
+ 
+abricate results for Catt-BWE_113B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+ 
+abricate results for Catt-HIM_031B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+sul1	85.87	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+ 
+abricate results for Catt-HIM_045B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-13	92.59	99.91	class C extended-spectrum beta-lactamase EC-13	CEPHALOSPORIN
+tet(B)	100.00	100.00	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+ 
+abricate results for Catt-HIM_048B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaEC-15	100.00	98.59	class C extended-spectrum beta-lactamase EC-15	CEPHALOSPORIN
+qnrS1	100.00	100.00	quinolone resistance pentapeptide repeat protein QnrS1	QUINOLONE
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+dfrA17	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM
+ 
+abricate results for Catt-HIM_068A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.30	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Catt-HIM_073A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	98.06	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Catt-HIM_082A1
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.30	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Catt-KAT_009_A1
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-15	100.00	98.50	class C extended-spectrum beta-lactamase EC-15	CEPHALOSPORIN
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+aph(3'')-Ib	100.00	99.88	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+tet(B)	100.00	100.00	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+dfrA8	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA8	TRIMETHOPRIM
+aadA1	100.00	99.75	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+blaOXA-1	98.68	99.88	oxacillin-hydrolyzing class D beta-lactamase OXA-1	CEPHALOSPORIN
+ 
+abricate results for Catt-KAT_013A1
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	98.15	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Catt-KAT_036B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+ 
+abricate results for Home-BWE_054A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+catA1	100.00	99.85	type A-1 chloramphenicol O-acetyltransferase	CHLORAMPHENICOL
+blaEC-8	100.00	98.50	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+ 
+abricate results for Home-HIM_031A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.91	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_032A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC	100.00	99.91	BlaEC family class C beta-lactamase	BETA-LACTAM
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+dfrA1	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+ 
+abricate results for Home-HIM_045A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.21	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_047B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+fosA	100.00	96.24	fosfomycin resistance glutathione transferase FosA	FOSFOMYCIN
+blaACT-77	100.00	99.48	cephalosporin-hydrolyzing class C beta-lactamase ACT-77	CEPHALOSPORIN
+oqxB20	100.00	89.19	multidrug efflux RND transporter permease subunit OqxB20	PHENICOL;QUINOLONE
+oqxA10	100.00	85.97	multidrug efflux RND transporter periplasmic adaptor subunit OqxA10	PHENICOL;QUINOLONE
+ 
+abricate results for Home-HIM_048A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-5	100.00	99.91	cephalosporin-hydrolyzing class C beta-lactamase EC-5	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_068B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-15	100.00	98.59	class C extended-spectrum beta-lactamase EC-15	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_071A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.12	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_072A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+dfrA15	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA15	TRIMETHOPRIM
+aadA1	100.00	96.47	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+blaEC-8	97.88	98.20	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_073B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+dfrA14	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA14	TRIMETHOPRIM
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+blaEC-19	100.00	99.21	class C extended-spectrum beta-lactamase EC-19	CEPHALOSPORIN
+ 
+abricate results for Home-HIM_075A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.21	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+dfrA1	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+fosA7.5	100.00	100.00	fosfomycin resistance glutathione transferase FosA7.5	FOSFOMYCIN
+ 
+abricate results for Home-HIM_82A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+dfrA8	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA8	TRIMETHOPRIM
+blaEC	100.00	100.00	BlaEC family class C beta-lactamase	BETA-LACTAM
+mph(A)	100.00	99.57	Mph(A) family macrolide 2'-phosphotransferase	MACROLIDE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+ 
+abricate results for Home-KAT_009A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-8	100.00	98.15	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+tet(A)	100.00	99.92	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+dfrA7	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA7	TRIMETHOPRIM
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+ 
+abricate results for Home-KAT_013A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+dfrA8	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA8	TRIMETHOPRIM
+blaEC	100.00	99.73	BlaEC family class C beta-lactamase	BETA-LACTAM
+tet(B)	100.00	100.00	tetracycline efflux MFS transporter Tet(B)	TETRACYCLINE
+ 
+abricate results for Home-KAT_023A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+blaEC	100.00	100.00	BlaEC family class C beta-lactamase	BETA-LACTAM
+sul1	91.91	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+dfrA7	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA7	TRIMETHOPRIM
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+ 
+abricate results for Home-KAT_039B
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+dfrA14	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA14	TRIMETHOPRIM
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaTEM-1	80.26	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+ 
+abricate results for Hosp-BWE_048
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+dfrA14	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA14	TRIMETHOPRIM
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaEC	100.00	100.00	BlaEC family class C beta-lactamase	BETA-LACTAM
+ 
+abricate results for Hosp-BWE_054
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+aadA5	100.00	100.00	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA5	STREPTOMYCIN
+dfrA17	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA17	TRIMETHOPRIM
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaEC-5	100.00	99.47	cephalosporin-hydrolyzing class C beta-lactamase EC-5	CEPHALOSPORIN
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+ 
+abricate results for Hosp-BWE_076
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+dfrA8	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA8	TRIMETHOPRIM
+blaEC	89.77	99.80	BlaEC family class C beta-lactamase	BETA-LACTAM
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+ 
+abricate results for Hosp-BWE_106
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaTEM-235	98.03	99.88	class A beta-lactamase TEM-235	BETA-LACTAM
+aph(3'')-Ib	100.00	99.88	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+aph(6)-Id	92.71	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+dfrA1	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
+blaEC-8	100.00	98.24	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+ 
+abricate results for Hosp-HIM_031
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.12	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+aph(3'')-Ib	100.00	99.88	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+ 
+abricate results for Hosp-HIM_045
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-15	100.00	98.59	class C extended-spectrum beta-lactamase EC-15	CEPHALOSPORIN
+ 
+abricate results for Hosp-HIM_048
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+tet(A)	100.00	100.00	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+dfrA1	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+blaEC-18	100.00	99.21	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Hosp-HIM_068
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-18	100.00	99.91	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+ 
+abricate results for Hosp-HIM_071A
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+dfrA14	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA14	TRIMETHOPRIM
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaEC-19	100.00	99.21	class C extended-spectrum beta-lactamase EC-19	CEPHALOSPORIN
+ 
+abricate results for Hosp-HIM_82
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+dfrA5	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA5	TRIMETHOPRIM
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaEC-8	100.00	98.33	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+ 
+abricate results for Hosp-KAT_009
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+sul2	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+dfrA8	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA8	TRIMETHOPRIM
+blaTEM-1	99.54	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+blaEC-8	100.00	95.41	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+ 
+abricate results for Hosp-KAT_013
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+tet(A)	100.00	99.92	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+dfrA1	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+blaEC-15	100.00	98.59	class C extended-spectrum beta-lactamase EC-15	CEPHALOSPORIN
+ 
+abricate results for Hosp-KAT_023
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+blaEC-8	100.00	98.15	cephalosporin-hydrolyzing class C beta-lactamase EC-8	CEPHALOSPORIN
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+aph(6)-Id	100.00	100.00	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+aph(3'')-Ib	100.00	100.00	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+sul2	100.00	99.88	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+sul1	100.00	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+dfrA1	100.00	99.79	trimethoprim-resistant dihydrofolate reductase DfrA1	TRIMETHOPRIM
+ 
+abricate results for Hosp-KAT_039
+ 
+GENE	%COVERAGE	%IDENTITY	PRODUCT	RESISTANCE
+tet(A)	100.00	99.92	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+blaTEM-1	100.00	100.00	class A broad-spectrum beta-lactamase TEM-1	BETA-LACTAM
+sul3	100.00	99.87	sulfonamide-resistant dihydropteroate synthase Sul3	SULFONAMIDE
+aadA1	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+cmlA1	100.00	99.84	chloramphenicol efflux MFS transporter CmlA1	CHLORAMPHENICOL
+aadA2	100.00	99.87	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA2	STREPTOMYCIN
+dfrA12	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA12	TRIMETHOPRIM
+blaEC-18	100.00	99.91	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+sul1	91.91	100.00	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+dfrA7	100.00	100.00	trimethoprim-resistant dihydrofolate reductase DfrA7	TRIMETHOPRIM
