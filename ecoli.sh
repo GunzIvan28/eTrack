@@ -82,13 +82,19 @@ bwa index -p ecoliINDEX -a is /home/jkabahita/mproject/ecoli-ref.fasta
 	    ${path2}/unicycler-results/${i}/assembly.fasta
 
     mlst --threads 20 --scheme ecoli \
-	 {path2}/unicycler-results/${i}/assembly.fasta  | echo -e  "${i} -\t `grep ecoli`" >> ${path2}/mlst/mlst.txt
+	 ${path2}/unicycler-results/${i}/assembly.fasta  | echo -e  "${i} -\t `grep ecoli`" >> ${path2}/mlst/mlst.txt
+    
+    cut -f1,3-  ${path2}/mlst/mlst.txt > ${path2}/mlst/mlstfinal.txt
 
     abricate "${path2}/unicycler-results/${i}/assembly.fasta"  > "${path2}/abricate/${i}.txt"
 
     cat ${path2}/abricate/${i}.txt | cut -f6,10,11,14,15 > ${path2}/abricate/${i}_1.txt
 
+    echo " " >> ${path2}/abricate/abr_final.txt
+
     echo -e "abricate results for ${i}"  >> ${path2}/abricate/abr_final.txt
+
+    echo " " >> ${path2}/abricate/abr_final.txt
 
     cat ${path2}/abricate/${i}_1.txt >> ${path2}/abricate/abr_final.txt
 
