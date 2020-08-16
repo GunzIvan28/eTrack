@@ -102,4 +102,19 @@ bwa index -p ecoliINDEX -a is /home/jkabahita/mproject/ecoli-ref.fasta
  done
 
 
+ roary -p 20 -f ${path}/results/roary ${path}/gff/*.gff
+
+ cd  ${path}/results/roary
+
+ query_pan_genome -a union ${path}/gff/*.gff
+
+ query_pan_genome -a intersection ${path}/gff/*.gff
+
+ query_pan_genome -a complement ${path}/gff/*.gff
+
+ query_pan_genome -a gene_multifasta -n arcA, mdh, gyrA ${path}/gff/*.gff
+
+ roary -e --mafft -p 20  ${path}/gff/*.gff
+
+
   
