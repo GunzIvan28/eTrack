@@ -25,7 +25,7 @@ usage() {
 Thanks for using eTrack $VERSION
 Developed by as a mini-project by Group-4 EanBIT Residential Training 2
 
-SYPNOSIS:
+SYNOPSIS:
     An E.coli analysis Pipeline for Profiling it's epidemiology, virulence, phylogeny & resistome
 
 USAGE:
